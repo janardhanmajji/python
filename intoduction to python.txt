@@ -1,0 +1,5 @@
+Why python?
+
+-> it can be used in various fields like data-science, ml, web-dev etc..
+-> There is a package for almost everything in python
+-> Python is easy to learn
